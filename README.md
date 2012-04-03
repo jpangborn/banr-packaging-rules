@@ -4,7 +4,7 @@ Banner Packaging Rules
 PHEAA Estimate
 --------------
 
-The PHEAA Estimate rule will generate a PHEAA estimate for the student. This rule assumes that the Cost of Attendance is greater than $31,000. If the COA is lower, additional sequences will need to be added. 
+The PHEAA Estimate rule will generate a PHEAA estimate for the student. This rule assumes that the Cost of Attendance is greater than $32,000. If the COA is lower, additional sequences will need to be added. 
 
 Merit Scholarship from Cohort Code
 ----------------------------------
